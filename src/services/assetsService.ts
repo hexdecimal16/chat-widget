@@ -1,5 +1,5 @@
 const CDN_BASE_URL =
-  "https://cdn.jsdelivr.net/gh/hexdecimal16/chat-widget@main/public";
+  "https://cdn.jsdelivr.net/gh/iamport-intl/portone-devx-chatbot-widget@main/public"
 
 export function getAssetUrl(filename: string): string {
   if (!filename) {
